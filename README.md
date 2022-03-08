@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I am Fatima!
 
-<!--
-**Fatima-GR/Fatima-GR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I have recently completed a bootcamp at <a href="https://www.technigo.io/program">Technigo </a></p>
 
-Here are some ideas to get you started:
+<p> We focused on: </p>
+  
+<p>JavaScript (ES6)<br>
+React<br>
+Redux<br>
+HTML5<br>
+CSS<br>
+Node.js<br>
+</p>
+  
+This is my <a href ="https://www.linkedin.com/in/fatima-gamero-romero/"> Linkedin </a><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my <a href="https://fatima-gamero-romero-portfolio.netlify.app/>Portfolio </a></p><br>
