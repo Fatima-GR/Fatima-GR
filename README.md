@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I am a cat lover!   
 
 
-- ✔️ Have a look at my [personal portfolio](https://fatima-gamero-romero-portfolio.netlify.app/).  
+- ✔️ Have a look at my [personal portfolio](https://portfolio-fatima-gr.netlify.app/).  
   
 
 <br/>  
